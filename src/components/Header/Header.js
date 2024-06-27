@@ -14,11 +14,11 @@ function Header() {
 	return (
 		<header>
 			<div className="left-logo">
-         <img src={"https://test.digitalt3.com/wp-content/uploads/2024/05/DT3_WOBG_LOGO.png"} alt="Logo" />
+         <img src={"https://test.digitalt3.com/wp-content/uploads/2023/11/new_logo_dt3.png"} alt="Logo" />
        </div>
 			<nav ref={navRef}>
 				<a href="/">Home</a>
-				<a href="/chat">Target</a>
+				<a href="/chat">Legal Expert</a>
         <a href="/technique">Technique</a>
         {/* <a href="/team">Team</a> */}
 				{/* <a href="/about">About Us</a> */}
