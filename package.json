@@ -27,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://3.141.80.10:5002/",
+  "proxy": "https://dmu6li2ezingzs6rbewgtwn5ru0ngtgy.lambda-url.us-east-2.on.aws/",
   "eslintConfig": {
     "extends": [
       "react-app",
